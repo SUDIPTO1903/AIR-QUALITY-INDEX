@@ -70,22 +70,24 @@ Understanding and improving the Air Quality Index (AQI) is key to addressing the
 ## Social, Ecological and Economic Impact 
 
 - ### Sustainability : 
-		Our Air Quality Index (AQI) project promotes sustainability by addressing air pollution, which impacts environmental, social, and economic aspects of urban life. By monitoring and raising awareness of air quality, the project encourages reducing emissions, protecting ecosystems, and improving public health. It also contributes to climate change mitigation by targeting pollutants that are climate forcers. Additionally, the project promotes social equity by highlighting the disproportionate effects of pollution on vulnerable communities and supports sustainable urban planning through data-driven decisions that enhance livability and resilience in cities.
+Our Air Quality Index (AQI) project promotes sustainability by addressing air pollution, which impacts environmental, social, and economic aspects of urban life. By monitoring and raising awareness of air quality, the project encourages reducing emissions, protecting ecosystems, and improving public health. It also contributes to climate change mitigation by targeting pollutants that are climate forcers. Additionally, the project promotes social equity by highlighting the disproportionate effects of pollution on vulnerable communities and supports sustainable urban planning through data-driven decisions that enhance livability and resilience in cities.
 
 - ### Impact when scaled : 
 	
 	**Environmental Impact**
-	- *Improved Air Quality*: Scaling our project will lead to better monitoring and management of pollution sources, reducing harmful emissions from vehicles, industries, and other contributors.
-	- *Biodiversity Preservation*: Cleaner air will result in healthier ecosystems, as reduced pollution will lower the damage to plants, animals, and water bodies, supporting greater biodiversity.
-	- *Climate Change Mitigation*: By reducing pollutants that also act as climate forcers (e.g., black carbon), our project will help mitigate the effects of climate change, contributing to lower global temperatures and more resilient urban environments.
+	- **Improved Air Quality**: Scaling our project will lead to better monitoring and management of pollution sources, reducing harmful emissions from vehicles, industries, and other contributors.
+	- **Biodiversity Preservation**: Cleaner air will result in healthier ecosystems, as reduced pollution will lower the damage to plants, animals, and water bodies, supporting greater biodiversity.
+	- **Climate Change Mitigation**: By reducing pollutants that also act as climate forcers (e.g., black carbon), our project will help mitigate the effects of climate change, contributing to lower global temperatures and more resilient urban environments.
+
 	**Social Impact**
-	- *Enhanced Public Health*: Improved air quality will decrease the prevalence of respiratory and cardiovascular diseases, leading to healthier populations and longer life expectancy, particularly benefiting vulnerable groups such as children and the elderly.
-	- *Greater Public Awareness*: As more people become informed about air quality, they can take actions to reduce exposure to pollutants and advocate for cleaner environments, empowering communities.
-	- *Social Equity*: Scaling our project will help address inequalities, as low-income and vulnerable communities often face the brunt of poor air quality. By targeting these areas, our project can ensure cleaner air for all.
+	- **Enhanced Public Health**: Improved air quality will decrease the prevalence of respiratory and cardiovascular diseases, leading to healthier populations and longer life expectancy, particularly benefiting vulnerable groups such as children and the elderly.
+	- **Greater Public Awareness**: As more people become informed about air quality, they can take actions to reduce exposure to pollutants and advocate for cleaner environments, empowering communities.
+	- **Social Equity**: Scaling our project will help address inequalities, as low-income and vulnerable communities often face the brunt of poor air quality. By targeting these areas, our project can ensure cleaner air for all.
+ 
 	**Economic Impact**
-	- *Reduced Healthcare Costs*: With fewer air pollution-related diseases, the burden on healthcare systems will decrease, leading to significant savings in medical expenses and greater productivity due to fewer sick days.
-	- *Increased Productivity*: Healthier populations result in higher labor productivity and economic output. Cleaner air also improves overall livability, making cities more attractive to businesses and residents.
-	- *Sustainable Urban Development*: Better air quality can lead to more sustainable infrastructure investments, such as in green transportation and energy-efficient buildings, fostering long-term economic growth and resilience.
+	- **Reduced Healthcare Costs**: With fewer air pollution-related diseases, the burden on healthcare systems will decrease, leading to significant savings in medical expenses and greater productivity due to fewer sick days.
+	- **Increased Productivity**: Healthier populations result in higher labor productivity and economic output. Cleaner air also improves overall livability, making cities more attractive to businesses and residents.
+	- **Sustainable Urban Development**: Better air quality can lead to more sustainable infrastructure investments, such as in green transportation and energy-efficient buildings, fostering long-term economic growth and resilience.
 
 ## Integration 
 
