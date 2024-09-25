@@ -1,27 +1,25 @@
-# IITK Hackathon Buzzstop
+# <span style="color: red;">IITK Hackathon Buzzstop</span>.
 
+## <span style="color: orange;">Title : Air Quality Index</span>.
 
-## Title : Air Quality Index
+## <span style="color: orange;">Team Name: AI AVENGERS</span>.
 
-## Team Name: AI AVENGERS
-
-
-## Problem Statement :  Air Quality monitoring and Prediction
+## <span style="color: orange;">Problem Statement :  Air Quality monitoring and Prediction</span>.
  
 ---
-### Challenge : 
-
+###  <span style="color: green;">Challenge : </span>.
+ 
 In addition, air pollution negatively affects the urban ecosystem, damaging vegetation, reducing biodiversity, and contributing to climate change. Poor air quality has significant impacts on public health, contributing to respiratory diseases, cardiovascular issues, and reduced quality of life, especially among vulnerable populations like children and the elderly.
 
 ---
 
-### Why is this Problem important : 
-
+###  <span style="color: green;">Why is this Problem important :</span>.
+ 
 Air pollution is a major issue because it directly impacts public health, causing respiratory and cardiovascular diseases, increasing healthcare costs, and reducing productivity. It also damages ecosystems, contributes to climate change, and disproportionately affects vulnerable communities, intensifying social inequalities. Addressing this problem is essential for improving urban livability, economic resilience, and environmental sustainability.
 
 
-### How it impacts urban dev: 
-
+### <span style="color: green;">How it impacts urban dev: </span>.
+ 
 Understanding and improving the Air Quality Index (AQI) is key to addressing these issues. Monitoring AQI helps policymakers implement effective regulations and allows citizens to make informed choices about their health and safety. Mitigating air pollution is essential for ensuring that cities can develop sustainably, promoting cleaner transportation, greener infrastructure, and stronger environmental policies to create more livable, equitable, and resilient urban spaces.
 
 ---
@@ -34,7 +32,8 @@ Understanding and improving the Air Quality Index (AQI) is key to addressing the
 
 ---
 
-### Technical Architecture
+### <span style="color: green;">Technical Architecture</span>.
+ 
 
 - AI algo/models used : 
 	 - **Linear Regression** - Linear Regression is a simple and interpretable algorithm that fits a line through the data points and makes predictions based on the relationship between the input features and the target AQI value.
