@@ -1,24 +1,24 @@
-# <span style="color: red;">IITK Hackathon Buzzstop</span>.
+# IITK Hackathon Buzzstop
 
-## <span style="color: orange;">Title : Air Quality Index</span>.
+## Title : Air Quality Index
 
-## <span style="color: orange;">Team Name: AI AVENGERS</span>.
+## Team Name: AI AVENGERS
 
-## <span style="color: orange;">Problem Statement :  Air Quality monitoring and Prediction</span>.
+## Problem Statement :  Air Quality monitoring and Prediction
  
 ---
-###  <span style="color: green;">Challenge : </span>.
+###  Challenge : 
  
 In addition, air pollution negatively affects the urban ecosystem, damaging vegetation, reducing biodiversity, and contributing to climate change. Poor air quality has significant impacts on public health, contributing to respiratory diseases, cardiovascular issues, and reduced quality of life, especially among vulnerable populations like children and the elderly.
 
 ---
 
-###  <span style="color: green;">Why is this Problem important :</span>.
+###  Why is this Problem important :
  
 Air pollution is a major issue because it directly impacts public health, causing respiratory and cardiovascular diseases, increasing healthcare costs, and reducing productivity. It also damages ecosystems, contributes to climate change, and disproportionately affects vulnerable communities, intensifying social inequalities. Addressing this problem is essential for improving urban livability, economic resilience, and environmental sustainability.
 
 
-### <span style="color: green;">How it impacts urban dev: </span>.
+### How it impacts urban dev: 
  
 Understanding and improving the Air Quality Index (AQI) is key to addressing these issues. Monitoring AQI helps policymakers implement effective regulations and allows citizens to make informed choices about their health and safety. Mitigating air pollution is essential for ensuring that cities can develop sustainably, promoting cleaner transportation, greener infrastructure, and stronger environmental policies to create more livable, equitable, and resilient urban spaces.
 
@@ -32,7 +32,7 @@ Understanding and improving the Air Quality Index (AQI) is key to addressing the
 
 ---
 
-### <span style="color: green;">Technical Architecture</span>.
+### Technical Architecture
  
 
 - AI algo/models used : 
@@ -53,8 +53,8 @@ Understanding and improving the Air Quality Index (AQI) is key to addressing the
 	- **ANN (Artificial Neural Network)** - ANN can capture complex patterns in the data using multiple layers of neurons. It is useful for making predictions when the relationship between the features and AQI is highly nonlinear.
 
 - Datasets : 
-	- Air Quality Data in India : <https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india>
-	- NCBI research paper :  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10280551/>
+	- [Air Quality Data in India](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india)
+	- [NCBI research paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10280551/)
 - Programming Languages : 
 	- Python
 	- Markdown
@@ -112,9 +112,9 @@ Our project can provide policymakers with crucial data on air quality trends, ai
 
 ## Demo 
 
-Video - 
+- [Video]()
 
-Github Link - <https://github.com/SUDIPTO1903/AIR-QUALITY-INDEX>
+- [Github](https://github.com/SUDIPTO1903/AIR-QUALITY-INDEX)
 
 ## Future Potential and Scalability
 
@@ -140,6 +140,4 @@ Github Link - <https://github.com/SUDIPTO1903/AIR-QUALITY-INDEX>
     
 4. **Social Equity:** Focusing on disparities in air quality allows our project to advocate for equitable access to clean air, particularly for low-income communities.
     
-5. **Collaborative Initiatives:** Our project can foster partnerships with local organizations and government agencies to implement community-based air quality improvement programs, enhancing social cohesion.
-
-
+5. **Collaborative Initiatives:** Our project can foster partnerships with local organizations and government agencies to implement community-based air quality improvement programs, enhancing social cohesion.>>
