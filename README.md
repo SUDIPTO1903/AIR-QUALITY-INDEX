@@ -96,8 +96,8 @@ In summary, the solution’s core innovation is its ability to merge data-driven
 	- **ANN (Artificial Neural Network)** - ANN can capture complex patterns in the data using multiple layers of neurons. It is useful for making predictions when the relationship between the features and AQI is highly nonlinear.
 
 - Datasets : 
-	- Air Quality Data in India : <https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india>
-	- NCBI research paper :  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10280551/>
+	- [Air Quality Data in India](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india)
+	- [NCBI research paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10280551/)
 - Programming Languages : 
 	- Python
 	- Markdown
@@ -155,9 +155,9 @@ Our project can provide policymakers with crucial data on air quality trends, ai
 
 ## Demo 
 
-Video - 
+[Youtube Video](https://youtu.be/cU2qOUErZMc)
 
-Github Link - <https://github.com/SUDIPTO1903/AIR-QUALITY-INDEX>
+[Github repository](https://github.com/SUDIPTO1903/AIR-QUALITY-INDEX)
 
 ## Future Potential and Scalability
 
